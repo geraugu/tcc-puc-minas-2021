@@ -22,7 +22,7 @@ Nesse trabalho, o corte feito foi do Brasília-DF, Belo Horizonte-BH, Porto Aleg
 
 
 ### Importação das bases
-As bases foram obtidas nos seguintes links<br>
+As bases de notificações de COVID-19 foram obtidas nos seguintes links<br>
 - [dados-mg-1](https://s3-sa-east-1.amazonaws.com/ckan.saude.gov.br/dados-mg-1.csv) <br>
 - [dados-mg-2](https://s3-sa-east-1.amazonaws.com/ckan.saude.gov.br/dados-mg-2.csv)<br>
 - [dados-mg-3](https://s3-sa-east-1.amazonaws.com/ckan.saude.gov.br/dados-mg-3.csv)<br>
@@ -39,3 +39,5 @@ As bases foram obtidas nos seguintes links<br>
 
 Foi selecionado o período de 19/02/2020 até 30/06/2021 das notificações de Covid-19<br>
 O dado de mobilidade selecionado foi a variação percentual de mobilidade das estações de tranporte público
+
+Os dados de mobilidade foram obtido no seguinte [link](https://www.gstatic.com/covid19/mobility/Region_Mobility_Report_CSVs.zip)
